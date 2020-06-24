@@ -16,6 +16,8 @@ Demo Companion allows you to store lines of code in order so that you can insert
 
 * Add Code: Save new line(s) of code in the Command Palette, which can be inserted later.
 
+![Gif adding code](images/add.gif)
+
 * Right-click to add code: Highlight line(s) of code and save them to your list of saved code.
 
 ![Gif right clicking to add code](images/rightclick.gif)
