@@ -16,17 +16,21 @@ Coding live is a great way to to interact with an audience or break down complex
 
 ## Features
 
+![Screenshot of command palette](images/command-list.png)
+
 * Insert Code: Insert saved line(s) of code into your app.
 
 ![Gif inserting code](images/insert.gif)
 
-* Add Code: Save new line(s) of code which can be inserted later.
+* Add Code: Save new line(s) of code in the Command Palette, which can be inserted later.
+
+* Right-click to add code: Highlight line(s) of code and save them to your list of saved code.
+
+![Gif right clicking to add code](images/rightclick.gif)
 
 * Remove Code: Remove a saved piece of code from your list.
 
 * View Code: View the code you have saved in your list.
-
-* Right-click to add code: Highlight line(s) of code and save them to your list of saved code.
 
 ## Requirements
 
