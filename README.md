@@ -28,6 +28,8 @@ Demo Companion allows you to store lines of code in order so that you can insert
 
 * View Code: View the code you have saved in your list.
 
+![Gif viewing code](images/view.gif)
+
 ## Optional Requirements
 
 *Optional* The template code included in the "Insert Code" command is in Python. If you'd like to try it out, you'll need to configure a Python development environment. Learn more at https://code.visualstudio.com/docs/python/python-tutorial.
