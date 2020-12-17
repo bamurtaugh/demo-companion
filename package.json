@@ -53,18 +53,18 @@
 		],
 		"menus": {
 			"editor/context": [
-			  {
-				"command": "democompanion.rightclickcode",
-				"group": "navigation"
-			  }
+				{
+					"command": "democompanion.rightclickcode",
+					"group": "navigation"
+				}
 			],
 			"commandPalette": [
 				{
-				  "command": "democompanion.rightclickcode",
-				  "when": "never"
+					"command": "democompanion.rightclickcode",
+					"when": "never"
 				}
-			  ]
-		  }
+			]
+		}
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
