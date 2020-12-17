@@ -4,7 +4,7 @@ Demo Companion seeks to speed up and simplify the process of inserting code into
 
 Coding live is a great way to to interact with an audience or break down complex topics line-by-line, but it can be challenging to remember exactly what you want to type or doing so quickly without errors. 
 
-Demo Companion allows you to store lines of code in order so that you can insert them easily when you're reading to use them in your talk, and you can also add and view the lines you've already inserted.
+Demo Companion allows you to store lines of code in order so that you can insert them easily when you're reading to use them in your talk, and you can also add and view the lines you've already inserted!
 
 ## Features
 
