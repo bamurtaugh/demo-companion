@@ -6,8 +6,6 @@ Coding live is a great way to to interact with an audience or break down complex
 
 Demo Companion allows you to store lines of code in order so that you can insert them easily when you're reading to use them in your talk, and you can also add and view the lines you've already inserted!
 
-This change is for prod!!
-
 ## Features
 
 ![Screenshot of command palette](images/command-list.png)
