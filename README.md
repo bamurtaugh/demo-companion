@@ -10,7 +10,7 @@ Demo Companion allows you to store lines of code in order so that you can insert
 
 ![Screenshot of command palette](images/command-list.png)
 
-* Insert Code: Insert saved line(s) of code into your app.
+* Insert Code: Insert saved line(s) of code into your app!
 
 ![Gif inserting code](images/insert.gif)
 
